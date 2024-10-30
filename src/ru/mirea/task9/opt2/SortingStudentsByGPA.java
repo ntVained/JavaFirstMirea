@@ -1,4 +1,6 @@
-package ru.mirea.task9.opt1;
+package ru.mirea.task9.opt2;
+
+import ru.mirea.task9.opt1.Student;
 
 import java.util.Comparator;
 import java.util.List;
